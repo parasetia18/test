@@ -5,3 +5,5 @@ Frontend
 Databses
 
 Dynamic programming
+
+Static softwares...)
